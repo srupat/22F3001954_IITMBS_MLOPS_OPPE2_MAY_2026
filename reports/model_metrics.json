@@ -1,0 +1,23 @@
+{
+    "accuracy": 0.9830508474576272,
+    "precision": 0.9696969696969697,
+    "recall": 1.0,
+    "f1": 0.9846153846153847,
+    "best_params": {
+        "solver": "liblinear",
+        "C": 206.913808111479
+    },
+    "train_rows": 234,
+    "test_rows": 59,
+    "clean_rows": 293,
+    "confusion_matrix": [
+        [
+            26,
+            1
+        ],
+        [
+            0,
+            32
+        ]
+    ]
+}

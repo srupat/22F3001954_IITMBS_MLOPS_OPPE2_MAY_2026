@@ -1,0 +1,9 @@
+-r requirements.txt
+shap
+fairlearn
+matplotlib
+scipy
+requests
+pytest
+httpx
+tabulate

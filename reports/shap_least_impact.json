@@ -1,0 +1,22 @@
+[
+    {
+        "feature": "ca",
+        "mean_absolute_shap": 0.05570044154715782
+    },
+    {
+        "feature": "fbs",
+        "mean_absolute_shap": 0.0695679013619175
+    },
+    {
+        "feature": "slope",
+        "mean_absolute_shap": 0.0865388549328351
+    },
+    {
+        "feature": "exang",
+        "mean_absolute_shap": 0.12097195054721663
+    },
+    {
+        "feature": "thal",
+        "mean_absolute_shap": 0.23573112986774825
+    }
+]

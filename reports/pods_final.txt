@@ -1,0 +1,2 @@
+NAME                                 READY   STATUS    RESTARTS       AGE     IP           NODE                                                 NOMINATED NODE   READINESS GATES
+heart-disease-api-79864569cd-5vctd   1/1     Running   1 (100s ago)   9m11s   10.64.0.14   gke-oppe2-heart-cluster-default-pool-7392a048-mstb   <none>           <none>

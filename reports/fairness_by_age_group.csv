@@ -1,0 +1,4 @@
+age,accuracy,precision,recall
+50_to_59,1.0,1.0,1.0
+60_plus,0.95,0.9090909090909091,1.0
+under_50,1.0,1.0,1.0
